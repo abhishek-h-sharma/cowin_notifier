@@ -14,7 +14,7 @@ Note: CoWIN APIs work with only Indian IP Addresses.
 - Install all the dependencies - `! pip3 install -r requirements.txt`
 - Go to your Directory Eg `cd /Users/Admin/Documents/Git/cowin_notifier/`
 - Configure your filters in `constants.py` based on your requirement
-- Run `python3 app.py`
+- Run `python3 main.py`
 
 
 <!--- <h3 align="center">Show your &nbsp;❤️&nbsp; & support by starring the repository!</h3>-->
