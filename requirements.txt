@@ -1,0 +1,5 @@
+requests~=2.25.1
+pytz~=2021.1
+DateTime~=4.3
+cachetools~=4.2.2
+SkPy~=0.10.4
