@@ -3,8 +3,9 @@
 This project provides python code to check the available slots with specific filters applied for Covid-19 Vaccination Centers from CoWIN API in India
 
 # Pre Requisites
-Python
-Skype Account(Optional) - In case notifications need to be sent to Skype
+- Python  
+- Skype Account(Optional) - In case notifications need to be sent to Skype
+
 Note: CoWIN APIs work with only Indian IP Addresses. 
 
 
