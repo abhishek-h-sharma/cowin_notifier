@@ -10,8 +10,8 @@ Note: CoWIN APIs work with only Indian IP Addresses.
 
 
 # Usage
-- Clone the repository. using `! Git Clone https://github.com/abhishek-h-sharma/cowin_notifier `
-- Enter the command - `cd cowin-notifier/`
+- Clone the repository. using `! Git Clone https://github.com/abhishek-h-sharma/cowin_notifier.git `
+- Enter the command - `cd cowin_notifier/`
 - Install all the dependencies - `! pip3 install -r requirements.txt`
 - Go to your Directory Eg `cd /Users/Admin/Documents/Git/cowin_notifier/`
 - Configure your filters in `constants.py` based on your requirement
